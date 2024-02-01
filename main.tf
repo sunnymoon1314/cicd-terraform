@@ -1,4 +1,4 @@
-# Updated to include 3 EC2 instances...
+# Updated to include 3 EC2 instances.
 # Added second line on 31 Jan 2024 0200AM.
 terraform {
   required_providers {
